@@ -1,0 +1,5 @@
+NAME :Deepak s p
+COLLEGE :bangalore institute of technology
+YEAR OF PASSING :2024
+PHONE NUMBER: 7892116503
+USN : 1BI21CS402
