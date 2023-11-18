@@ -1,3 +1,4 @@
+# final code
 store = {"leather": {"unit": 1110, "gst": 18, "qua": 1, "t_gst": 0, "bill": 0},
          "umbrella": {"unit": 900, "gst": 12, "qua": 4, "t_gst": 0, "bill": 0},
          "cigaratte": {"unit": 200, "gst": 28, "qua": 3, "t_gst": 0, "bill": 0},
